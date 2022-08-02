@@ -1,6 +1,5 @@
-# Opciones-y-Volatilidad
+# Volatility and options
 
-En este repositorio encontrarás herramientas relacionadas con la valoración y evaluación del riesgo de opciones. Por ejemplo la implementación de la fórmula de Black-Scholes-Merton o la fórmula de Heston. También al cálculo de volatilidades implícitas o la función de probabilidad implícita. 
+In this repo you will find some tools related to pricing and risk measurement of options. You can find tools to calculate the price of an option like de Black-Scholes or Heston Model, or to get implied volatilities. 
 
-En Quant-Trading ofrecemos algunos cursos gratuitos y otros pagos. Conoce más en nuestro sitio web. 
-www.quant-trading.co
+We offer some free courses and resources as well as paid ones. Visit us in: www.quant-trading.co
